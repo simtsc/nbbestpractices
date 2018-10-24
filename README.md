@@ -1,1 +1,1 @@
-# pyconde2018
+# Jupyter Notebook Best Practices
